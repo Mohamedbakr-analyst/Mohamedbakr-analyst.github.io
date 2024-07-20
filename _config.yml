@@ -19,7 +19,6 @@ title: Mohamed Bakr # the main title
 tagline: Computer Engineering student interested in malware analysis and reverse engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blog, Bakr, github
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

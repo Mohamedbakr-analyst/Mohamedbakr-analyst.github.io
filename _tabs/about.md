@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> I’m Mohamed Bakr, Computer Engineering student intersted in malware analysis and reverse engineering.
+> I’m Mohamed Bakr, Computer Engineering Student intersted in malware analysis and reverse engineering.
 {: .prompt-tip }
